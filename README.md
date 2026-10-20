@@ -10,6 +10,17 @@
 A robust, enterprise-grade Flutter application built for discovering television shows, exploring seasons and episodes, browsing cast members, and maintaining a locally persisted watchlist. Powered by the public [TVMaze REST API](https://www.tvmaze.com/api) and engineered with **Feature-First Clean Architecture**, **BLoC (Business Logic Component)**, **Dio with CancelTokens**, and **declarative go_router navigation**.
 
 ---
+<img width="314" height="696" alt="Screenshot 2026-10-20 154220" src="https://github.com/user-attachments/assets/d4f8e0f9-6597-47ec-a7ee-a560a47cdc1b" />
+<img width="313" height="701" alt="Screenshot 2026-10-20 154233" src="https://github.com/user-attachments/assets/eb518714-a7b7-4499-b10b-7e08bb660963" />
+<img width="316" height="702" alt="Screenshot 2026-10-20 154253" src="https://github.com/user-attachments/assets/e115f3ed-1a41-4e69-b9d0-2f54137624a4" />
+<img width="322" height="710" alt="Screenshot 2026-10-20 154305" src="https://github.com/user-attachments/assets/09d9c27a-ae8c-4fa9-bbb0-b57b070063fe" />
+<img width="329" height="708" alt="Screenshot 2026-10-20 154321" src="https://github.com/user-attachments/assets/1f33e95f-704b-465d-88e0-a19da10625d5" />
+<img width="317" height="698" alt="Screenshot 2026-10-20 154348" src="https://github.com/user-attachments/assets/be8dc6d5-931d-4d84-929d-ed7f76aff254" />
+<img width="316" height="706" alt="Screenshot 2026-10-20 154419" src="https://github.com/user-attachments/assets/c48ca587-2e49-48d5-96d7-64b440c60a0d" />
+
+
+
+
 
 ## 1. Project Overview
 
